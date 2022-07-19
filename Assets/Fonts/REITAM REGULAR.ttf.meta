@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e20abfcf0c64b1e48be3b698abe9e17a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Reitam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2a3270327316ba4ab211e19824acb6c, type: 3}
+  - {fileID: 12800000, guid: eb1176f7e0a9ab54ea77c75a3b76aa69, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
